@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Develgram",
+  "description": "Develgram is a premium, Telegram-like secure messaging client integrated with a local Room database and built-in generative AI capabilities via @DevelgramAIBot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
